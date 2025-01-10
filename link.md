@@ -2,6 +2,8 @@ CVPR2022 [Generalized Category Discovery](https://github.com/sgvaze/generalized-
 
 CVPR2024 [Contrastive Mean-Shift Learning for Generalized Category Discovery](https://github.com/sua-choi/CMS)
 
+ACL2022 [New Intent Discovery with Pre-training and Contrastive Learning](https://github.com/fanolabs/NID_ACLARR2022)
+
 ICLR2022 [Open-World Semi-Supervised Learning](https://github.com/snap-stanford/orca)
 
 AAAI2021 [Discovering New Intents with Deep Aligned Clustering](https://github.com/thuiar/DeepAligned-Clustering)
