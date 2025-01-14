@@ -11,3 +11,5 @@ AAAI2021 [Discovering New Intents with Deep Aligned Clustering](https://github.c
 AAAI2023 [Generalized Category Discovery with Decoupled Prototypical Network](https://github.com/Lackel/DPN)
 
 AAAI2020 [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://github.com/thuiar/CDAC-plus)
+
+NAACL2021 [Open Hierarchical Relation Extraction](https://github.com/thunlp/OHRE)
