@@ -13,3 +13,5 @@ AAAI2023 [Generalized Category Discovery with Decoupled Prototypical Network](ht
 AAAI2020 [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://github.com/thuiar/CDAC-plus)
 
 NAACL2021 [Open Hierarchical Relation Extraction](https://github.com/thunlp/OHRE)
+
+TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://github.com/thuiar/TEXTOIR)
