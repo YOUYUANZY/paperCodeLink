@@ -17,3 +17,5 @@ NAACL2021 [Open Hierarchical Relation Extraction](https://github.com/thunlp/OHRE
 TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://github.com/thuiar/TEXTOIR)
 
 EMNLP2021 [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://github.com/princeton-nlp/SimCSE)
+
+ACL2022 [Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning](https://github.com/myt517/DKT/blob)
