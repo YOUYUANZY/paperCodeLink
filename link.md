@@ -19,3 +19,5 @@ TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent
 EMNLP2021 [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://github.com/princeton-nlp/SimCSE)
 
 ACL2022 [Disentangled Knowledge Transfer for OOD Intent Discovery with Unified Contrastive Learning](https://github.com/myt517/DKT/blob/main)
+
+ICCV2023  [Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery](https://github.com/DTennant/GPC)
