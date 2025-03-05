@@ -23,3 +23,5 @@ ACL2022 [Disentangled Knowledge Transfer for OOD Intent Discovery with Unified C
 ICCV2023  [Learning Semi-supervised Gaussian Mixture Models for Generalized Category Discovery](https://github.com/DTennant/GPC)
 
 ICLR2020 [Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings](https://github.com/hyren/query2box)
+
+VLDB2025 [InBox: Recommendation with Knowledge Graph using Interest Box Embedding](https://github.com/zjukg/InBox)
