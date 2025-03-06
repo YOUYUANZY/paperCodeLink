@@ -25,3 +25,5 @@ ICCV2023  [Learning Semi-supervised Gaussian Mixture Models for Generalized Cate
 ICLR2020 [Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings](https://github.com/hyren/query2box)
 
 VLDB2025 [InBox: Recommendation with Knowledge Graph using Interest Box Embedding](https://github.com/zjukg/InBox)
+
+SIGIR2022 [https://github.com/jinglong0407/CubeRec](https://github.com/jinglong0407/CubeRec)
