@@ -26,4 +26,4 @@ ICLR2020 [Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box E
 
 VLDB2025 [InBox: Recommendation with Knowledge Graph using Interest Box Embedding](https://github.com/zjukg/InBox)
 
-SIGIR2022 [https://github.com/jinglong0407/CubeRec](https://github.com/jinglong0407/CubeRec)
+SIGIR2022 [Thinking inside The Box: Learning Hypercube Representations for Group Recommendation](https://github.com/jinglong0407/CubeRec)
