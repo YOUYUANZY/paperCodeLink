@@ -31,3 +31,5 @@ SIGIR2022 [Thinking inside The Box: Learning Hypercube Representations for Group
 ICDM2024 [Resource2Box: Learning To Rank Resources in Distributed Search Using Box Embedding](https://github.com/uergash1/Resource2Box)
 
 NIPS2020 [BoxE: A Box Embedding Model for Knowledge Base Completion](https://github.com/ralphabb/BoxE)
+
+ICDE2024 [Optimizing Probabilistic Box Embeddings with Distance Measures](https://github.com/LonMeLon/boxplus)
