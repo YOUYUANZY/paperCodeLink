@@ -35,3 +35,5 @@ NIPS2020 [BoxE: A Box Embedding Model for Knowledge Base Completion](https://git
 ICDE2024 [Optimizing Probabilistic Box Embeddings with Distance Measures](https://github.com/LonMeLon/boxplus)
 
 StarSem2018 [Fine-grained Entity Typing through Increased Discourse Context and Adaptive Classification Thresholds](https://github.com/sheng-z/figet)
+
+EMNLP2019 [AnAttentive Fine-Grained Entity Typing Model with Latent Type Representation](https://github.com/limteng-rpi/fet)
