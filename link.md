@@ -33,3 +33,5 @@ ICDM2024 [Resource2Box: Learning To Rank Resources in Distributed Search Using B
 NIPS2020 [BoxE: A Box Embedding Model for Knowledge Base Completion](https://github.com/ralphabb/BoxE)
 
 ICDE2024 [Optimizing Probabilistic Box Embeddings with Distance Measures](https://github.com/LonMeLon/boxplus)
+
+StarSem2018 [Fine-grained Entity Typing through Increased Discourse Context and Adaptive Classification Thresholds](https://github.com/sheng-z/figet)
