@@ -37,3 +37,5 @@ ICDE2024 [Optimizing Probabilistic Box Embeddings with Distance Measures](https:
 StarSem2018 [Fine-grained Entity Typing through Increased Discourse Context and Adaptive Classification Thresholds](https://github.com/sheng-z/figet)
 
 EMNLP2019 [AnAttentive Fine-Grained Entity Typing Model with Latent Type Representation](https://github.com/limteng-rpi/fet)
+
+AAAI2025 [ Unleashing the Potential of Model Bias for Generalized Category Discovery](https://github.com/Lackel/SDC)
