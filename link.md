@@ -38,4 +38,6 @@ StarSem2018 [Fine-grained Entity Typing through Increased Discourse Context and 
 
 EMNLP2019 [AnAttentive Fine-Grained Entity Typing Model with Latent Type Representation](https://github.com/limteng-rpi/fet)
 
-AAAI2025 [ Unleashing the Potential of Model Bias for Generalized Category Discovery](https://github.com/Lackel/SDC)
+AAAI2025 [Unleashing the Potential of Model Bias for Generalized Category Discovery](https://github.com/Lackel/SDC)
+
+AAAI2024 [A Unified Knowledge Transfer Network for Generalized Category Discovery](https://github.com/yibai-shi/KTN)
