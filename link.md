@@ -43,3 +43,5 @@ AAAI2025 [Unleashing the Potential of Model Bias for Generalized Category Discov
 AAAI2024 [A Unified Knowledge Transfer Network for Generalized Category Discovery](https://github.com/yibai-shi/KTN)
 
 AAAI2024 [Transfer and Alignment Network for Generalized Category Discovery](https://github.com/Lackel/TAN)
+
+ACL2024 [Learning Geometry-Aware Representations for New Intent Discovery](https://github.com/zjutangk/GeoID)
