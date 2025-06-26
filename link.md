@@ -47,3 +47,5 @@ AAAI2024 [Transfer and Alignment Network for Generalized Category Discovery](htt
 ACL2024 [Learning Geometry-Aware Representations for New Intent Discovery](https://github.com/zjutangk/GeoID)
 
 AAAI2023 [Generalized Category Discovery with Decoupled Prototypical Network](https://github.com/Lackel/DPN)
+
+EMNLP2024 [Pseudo Label Enhanced Prototypical Contrastive Learning Framework towards Uniformed Intent Discovery](https://github.com/dymanne123/PLPCL)
