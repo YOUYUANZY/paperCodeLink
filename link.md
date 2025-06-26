@@ -45,3 +45,5 @@ AAAI2024 [A Unified Knowledge Transfer Network for Generalized Category Discover
 AAAI2024 [Transfer and Alignment Network for Generalized Category Discovery](https://github.com/Lackel/TAN)
 
 ACL2024 [Learning Geometry-Aware Representations for New Intent Discovery](https://github.com/zjutangk/GeoID)
+
+AAAI2023 [Generalized Category Discovery with Decoupled Prototypical Network](https://github.com/Lackel/DPN)
