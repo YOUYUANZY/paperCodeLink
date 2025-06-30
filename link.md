@@ -49,3 +49,7 @@ ACL2024 [Learning Geometry-Aware Representations for New Intent Discovery](https
 AAAI2023 [Generalized Category Discovery with Decoupled Prototypical Network](https://github.com/Lackel/DPN)
 
 EMNLP2024 [Pseudo Label Enhanced Prototypical Contrastive Learning Framework towards Uniformed Intent Discovery](https://github.com/dymanne123/PLPCL)
+
+EMNLP2023 [A Diffusion Weighted Graph Framework for New Intent Discovery](https://github.com/yibai-shi/DWGF)
+
+AAAI2021 [Discovering New Intents with Deep Aligned Clustering](https://github.com/thuiar/DeepAligned-Clustering)
