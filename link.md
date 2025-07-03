@@ -53,3 +53,7 @@ EMNLP2024 [Pseudo Label Enhanced Prototypical Contrastive Learning Framework tow
 EMNLP2023 [A Diffusion Weighted Graph Framework for New Intent Discovery](https://github.com/yibai-shi/DWGF)
 
 AAAI2021 [Discovering New Intents with Deep Aligned Clustering](https://github.com/thuiar/DeepAligned-Clustering)
+
+AAAI2020 [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://github.com/thuiar/CDAC-plus)
+
+ACL2022 [New Intent Discovery with Pre-training and Contrastive Learning](https://github.com/fanolabs/NID_ACLARR2022)
