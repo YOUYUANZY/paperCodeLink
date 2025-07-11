@@ -57,3 +57,5 @@ AAAI2021 [Discovering New Intents with Deep Aligned Clustering](https://github.c
 AAAI2020 [Discovering New Intents via Constrained Deep Adaptive Clustering with Cluster Refinement](https://github.com/thuiar/CDAC-plus)
 
 ACL2022 [New Intent Discovery with Pre-training and Contrastive Learning](https://github.com/fanolabs/NID_ACLARR2022)
+
+TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://github.com/thuiar/TEXTOIR)
