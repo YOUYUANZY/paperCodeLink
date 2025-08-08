@@ -59,3 +59,5 @@ AAAI2020 [Discovering New Intents via Constrained Deep Adaptive Clustering with 
 ACL2022 [New Intent Discovery with Pre-training and Contrastive Learning](https://github.com/fanolabs/NID_ACLARR2022)
 
 TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://github.com/thuiar/TEXTOIR)
+
+AAAI2024 [Towards Continual Knowledge Graph Embedding via Incremental Distillation](https://github.com/seukgcode/IncDE)
