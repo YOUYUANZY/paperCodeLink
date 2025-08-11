@@ -61,3 +61,5 @@ ACL2022 [New Intent Discovery with Pre-training and Contrastive Learning](https:
 TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent Discovery](https://github.com/thuiar/TEXTOIR)
 
 AAAI2024 [Towards Continual Knowledge Graph Embedding via Incremental Distillation](https://github.com/seukgcode/IncDE)
+
+AAAI2023 [Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs](https://github.com/nju-websoft/LKGE)
