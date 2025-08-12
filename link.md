@@ -63,3 +63,5 @@ TKDE2023 [A Clustering Framework for Unsupervised and Semi-supervised New Intent
 AAAI2024 [Towards Continual Knowledge Graph Embedding via Incremental Distillation](https://github.com/seukgcode/IncDE)
 
 AAAI2023 [Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs](https://github.com/nju-websoft/LKGE)
+
+IJCAI2024 [Fast and Continual Knowledge Graph Embedding via Incremental LoRA](https://github.com/seukgcode/FastKGE)
