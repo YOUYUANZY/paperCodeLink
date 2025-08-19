@@ -67,3 +67,5 @@ AAAI2023 [Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs]
 IJCAI2024 [Fast and Continual Knowledge Graph Embedding via Incremental LoRA](https://github.com/seukgcode/FastKGE)
 
 EMNLP2020 [Disentangle-based Continual Graph Representation Learning](https://github.com/KXY-PUBLIC/DiCGRL)
+
+ISWC2022 [ Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs](https://github.com/nju-websoft/ContEA)
