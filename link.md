@@ -1,5 +1,8 @@
 ACL2021 [Active Learning by Acquiring Contrastive Examples](https://github.com/mourga/contrastive-active-learning/blob/main)
 
+EMNLP2021 [ActiveEA: Active Learning for Neural Entity Alignment](https://github.com/UQ-Neusoft-Health-Data-Science/ActiveEA/blob/main)
+
+
 
 
 CVPR2022 [Generalized Category Discovery](https://github.com/sgvaze/generalized-category-discovery)
