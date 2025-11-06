@@ -1,3 +1,7 @@
+ACL2021 [Active Learning by Acquiring Contrastive Examples](https://github.com/mourga/contrastive-active-learning/blob/main)
+
+
+
 CVPR2022 [Generalized Category Discovery](https://github.com/sgvaze/generalized-category-discovery)
 
 CVPR2024 [Contrastive Mean-Shift Learning for Generalized Category Discovery](https://github.com/sua-choi/CMS)
